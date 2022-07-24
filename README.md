@@ -20,6 +20,8 @@
 
 ## Acknowledgments
 
+
+- Design from [ibaslogic.com](https://ibaslogic.com/) by [Ibas Majid](https://github.com/Ibaslogic)
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
 
 ## 📝 License
